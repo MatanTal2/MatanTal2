@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 
 ---
 
+## achievements
+- MobilEye's Life-Saving Engineering Hackathon
+  - Winner of **1st** prize 🏆
+  - Used OpenCV GPU, Python, Raspberry PI
+  
+---
+
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
