@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Computer Engineering Student at my last yesr 
+## I'm a Software Engineering at MicroFocus
 
-- 👨‍💻 I’m currently working on finding my first job.
-- 📚 I’m currently learning everything relatred to DevOps
+- 📚 I’m currently in DevOps position
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to bake.
 
