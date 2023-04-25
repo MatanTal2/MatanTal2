@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Software Engineering at MicroFocus
+## I'm a Software Engineering at OpenText formerly MicroFocus 
 
 - 📚 I’m currently in DevOps position
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
